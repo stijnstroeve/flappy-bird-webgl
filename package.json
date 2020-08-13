@@ -1,0 +1,30 @@
+{
+  "name": "flappy-bird-webgl",
+  "version": "1.0.0",
+  "description": "Flappy Bird WebGL clone.",
+  "main": "dist/index.js",
+  "dependencies": {
+    "typescript": "^3.9.7",
+    "ts-loader": "^8.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stijnstroeve/flappy-bird-webgl.git"
+  },
+  "keywords": [
+    "flappybird",
+    "flappy",
+    "bird",
+    "webgl"
+  ],
+  "author": "Stijn Stroeve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stijnstroeve/flappy-bird-webgl/issues"
+  },
+  "homepage": "https://github.com/stijnstroeve/flappy-bird-webgl#readme"
+}
